@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saumya Mishra</h1>
 <h3 align="center">A passionate Python Developer from IIITDM Jabalpur </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=saumya-mishra9129 alt=saumya-mishra9129/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=saumya-mishra9129 alt=saumya-mishra9129/> </p>
 
 - 🔭 I’m currently working on [sugarlabs](https://github.com/sugarlabs/)
 
