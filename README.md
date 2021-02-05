@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python and Javascript**
 
-- 📫 How to reach me **2017230@iiitdmj.ac.in**
+- 📫 How to reach me **msaumya209@gmail.com**
 
 - ⚡ I love **Bug Solving**
 
